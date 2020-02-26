@@ -1,3 +1,21 @@
 # Portfolio Optimization with Simulated Market Data
 
-The files *HW_QM17_17600875_nicolo_ceneda.pdf* and *assignment.m* contain the written and code solutions to the assignment *Homework_HS18.pdf*, namely a portfolio optimization with simulated market data. The files *TimeSeries_I.xls* and *TimeSeries_II.xls* contain the data used in the study.
+*Author*: Nicolo Ceneda \
+*Contact*: nicolo.ceneda@student.unisg.ch \
+*Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
+*Institution*: University of St Gallen \
+*Course*: Master of Banking and Finance \
+*Last update*: 26 February 2020
+
+## Project Structure
+<pre>
+│
+├── Homework_HS18.pdf                     <--  Portfolio optimization problem
+│
+├── HW_QM17_17600875_nicolo_ceneda.pdf    <--  Written solution
+│
+├── assignment.m                          <--  Code solution
+│
+└── TimeSeries_I.xls                      <--  Time series data
+    TimeSeries_II.xls
+</pre>
