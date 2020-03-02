@@ -1,4 +1,4 @@
-# Portfolio Optimization with Simulated Market Data
+# Portfolio Optimization with Simulated Data
 
 *Author*: Nicolo Ceneda \
 *Contact*: nicolo.ceneda@student.unisg.ch \
