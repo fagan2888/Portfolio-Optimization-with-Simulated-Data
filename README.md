@@ -4,7 +4,8 @@
 *Contact*: nicolo.ceneda@student.unisg.ch \
 *Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
 *Institution*: University of St Gallen \
-*Course*: Master of Banking and Finance \
+*Course*: Quantitative Methods (Master of Banking and Finance) \
+*Lecturer:* Prof. Karl Frauendorfer \
 *Last update*: 26 February 2020
 
 ## Project Structure
